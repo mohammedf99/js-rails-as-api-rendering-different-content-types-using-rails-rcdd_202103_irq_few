@@ -40,6 +40,7 @@ class BirdsController < ApplicationController
 end
 ```
 
+
 But we aren't restricted to displaying ERB. We can indicate what type
 of content we want to render. Let's first look at plain text.
 
